@@ -25,12 +25,6 @@ Building systems that think, scale, and fix themselves.
 * 🌍 Open source contributor
   Contributed to **PostHog, foss42, aden**
 
-* 🧪 Currently building
-  AI-powered developer tools & self-healing systems
-
-* 🎯 Goal
-  Remote global engineering role + building my own startup
-
 ---
 
 ## 🚀 Featured Projects
